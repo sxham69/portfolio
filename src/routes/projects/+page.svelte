@@ -16,10 +16,11 @@
         class="rounded-full group-hover:border group-hover:border-white bor transition-colors duraiton-300 h-12 w-12 ml-2"
       />
       <div class="flex flex-col">
-        <a href="https://apollo-bot.xyz" class="font-bold hover:underline"
-          >Apollo Bot (sold)</a
+        <a href="" class="font-bold hover:underline"
+          >Slay AI (Coming Soon)</a
         >
-        <p class="text-slate-300">A utility Discord bot</p>
+        <p class="text-slate-300">**Slay AI** is your AI companion designed to listen, understand, and support you through everyday life. Whether you need a caring girlfriend or boyfriend to share your thoughts, celebrate your wins, or help you unwind after a stressful day, Slay AI offers meaningful conversations, emotional support, and a judgment-free space—anytime, anywhere. 💜
+</p>
       </div>
     </div>
     <div
