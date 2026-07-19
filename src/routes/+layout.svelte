@@ -113,7 +113,7 @@
       <Button
         class="my-auto flex items-center justify-center font-mono"
         variant="outline"
-        href=""
+        href="https://nohello.net/en/"
       >
         {blogText}
       </Button>
