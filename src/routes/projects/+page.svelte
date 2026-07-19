@@ -22,4 +22,3 @@
         <p class="text-slate-300">Slay AI is your AI companion designed to listen, understand, and support you through everyday life. Whether you need a caring girlfriend or boyfriend to share your thoughts, celebrate your wins, or help you unwind after a stressful day, Slay AI offers meaningful conversations, emotional support, and a judgment-free space—anytime, anywhere. 💜
 </p>
       </div>
-    </div>
