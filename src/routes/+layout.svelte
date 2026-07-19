@@ -120,7 +120,9 @@
     </div>
   </div>
 
-  <slot class="z-4"></slot>
+  <div class="z-4">
+    <slot />
+  </div>
 </div>
 
 <style>
