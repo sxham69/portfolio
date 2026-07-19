@@ -113,7 +113,7 @@
       <Button
         class="my-auto flex items-center justify-center font-mono"
         variant="outline"
-        href="https://blog.zapdos.me"
+        href=""
       >
         {blogText}
       </Button>
