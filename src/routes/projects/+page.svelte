@@ -1,7 +1,5 @@
 <script>
   import avatar from "$lib/assets/avatar.png";
-  import apolloLogo from "$lib/assets/apollo_logo.png";
-  import hashpayLogo from "$lib/assets/hashpay_logo.png";
 </script>
 
 <div class="pt-4 font-mono">
